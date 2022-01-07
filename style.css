@@ -1,0 +1,120 @@
+body{
+    font-family: 'Merriweather', serif;
+    
+}
+.blue-color{
+    color: midnightblue;
+}
+.title-header{
+    border-left: 5px solid rebeccapurple;
+    padding-left: 10px;
+    font-size: 50px;
+}
+.section01{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+    padding-top: 5%;
+}
+.half-width img{
+    width: 70%;
+}
+.button{
+    text-decoration: none;
+    background-color: rgb(77, 77, 100);
+    padding: 10px 30px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.mission-color{
+    color: mediumturquoise;
+}
+.flex-cont{
+    display: flex;
+}
+.center{
+    text-align: center;
+    font-size: 40px;
+}
+.box-width01{
+    width: 30%;
+    padding: 5%;
+    background-color: rgb(187, 173, 173);
+    border: 2%;
+    border-radius: 10px;
+}
+.box-width02{
+    width: 30%;
+    padding: 5%;
+    background-color: rgb(181, 228, 243);
+    border: 2%;
+    border-radius: 10px;
+
+}
+.box-width03{
+    width: 30%;
+    padding: 5%;
+    background-color: rgb(229, 160, 227);
+    border: 2%;
+    border-radius: 10px;
+}
+.img-box{
+    width: 50%;
+}
+.mission-2022{
+    padding-top: 5%;
+}
+.dev-lmt{
+    font-size: 50px;
+}
+.section02{
+    display: flex;
+    padding-top: 5%;
+
+}
+.dev-color{
+    color: rgb(50, 13, 77);
+}
+.global-color{
+    color: indianred;
+}
+.section03{
+    display: flex;
+    padding-top: 5%;
+}
+.global{
+    font-size: 50px;
+}
+.covid-color{
+    color: red;
+}
+.section04{
+    display: flex;
+    padding-top: 5%;
+}
+.covid01{
+    font-size: 50px;
+}
+.footer-color{
+    color: rgba(255, 0, 0, 0.521);
+}
+footer p {
+    text-align: center;
+}
+footer h2 {
+    text-align: center;
+}
+.footer01{
+    background-color: rgb(131, 123, 123);
+}
+.cv19-color{
+    color: red;
+}
+
+.cv19{
+    font-size: 30px;
+    text-align: center;
+}
